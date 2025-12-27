@@ -4,20 +4,22 @@
 
 Bu araç, oyunu otomatik olarak başlatır ve Discord Rich Presence (RPC) özelliğini kullanarak anlık bilgileri (Harita, Oyuncu Sayısı, Round ID, İstasyon Adı, Alarm Seviyesi) gösterir.
 
-![Discord RPC Önizleme](a)
-//TODO
+![Discord RPC Önizleme](<img width="728" height="334" alt="image" src="https://github.com/user-attachments/assets/5e4681c9-ee23-4f12-bfd3-7a11a7811992" />
+)
 
 
-## 🛠️ Kurulum ve Kullanım
+## 🛠️ Kurulum
+Kurulum dosyasını ![Buradan](a) indir ve uygulamayı çalıştır. Dilersen kaynak kodtan da derleyebilirsin.
 
-Bu projeyi ister Python dosyası olarak çalıştırabilir, isterseniz de `.exe` formatına çevirip kullanabilirsiniz.
 
 ### Gereksinimler
 * BYOND (Varsayılan yol: `C:\Program Files (x86)\BYOND`) olmalı!
 
-### 1. Kaynak Koddan Çalıştırma
+### 1. Kaynak Koddan Çalıştırmak için
 
 Gerekli kütüphaneleri yükleyin:
 
 ```bash
 pip install psutil requests pypresence
+```
+Kodu çalıştır.
