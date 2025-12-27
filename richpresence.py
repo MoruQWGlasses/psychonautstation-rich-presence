@@ -7,8 +7,8 @@ import requests
 import ctypes
 from pypresence import Presence
 
-CLIENT_ID = '1453478750435152055' 
-LARGE_IMAGE_KEY = "babaressam"
+CLIENT_ID = '1453834311454167165' 
+LARGE_IMAGE_KEY = "spacelaw"
 DEFAULT_SMALL_IMAGE = "piskonat" 
 BYOND_BIN_FOLDER = r"C:\Program Files (x86)\BYOND\bin"
 BYOND_PAGER_PATH = os.path.join(BYOND_BIN_FOLDER, "byond.exe")
@@ -30,7 +30,6 @@ def get_dreamseeker_pid():
     return None
 
 def get_window_title_by_pid(pid):
-    """PID'ye ait pencereyi bulur. SADECE 'Psychonaut Station' içerenleri kabul eder."""
     if not pid: return None
     try:
         user32 = ctypes.windll.user32
@@ -184,7 +183,7 @@ def main():
                         large_text_hover = f"Harita: {api_map_name}"
 
                         if sec_level in ['green', 'blue', 'red', 'delta']:
-                            current_small_image = f"alert_{sec_level}"
+                            current_small_image = f"aalert_{sec_level}"
                             current_small_text = f"Alarm: {sec_level.upper()}"
                         else:
                             current_small_image = DEFAULT_SMALL_IMAGE
