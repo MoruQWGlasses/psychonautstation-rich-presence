@@ -9,7 +9,7 @@ Bu araç, oyunu otomatik olarak başlatır ve Discord Rich Presence (RPC) özell
 
 
 ## 🛠️ Kurulum
-Kurulum dosyasını ![Buradan](a) indir ve uygulamayı çalıştır. Dilersen kaynak kodtan da derleyebilirsin.
+Kurulum dosyasını ![Buradan](https://github.com/MoruQWGlasses/psychonautstation-rich-presence/raw/refs/heads/main/dist/PsychonautStation.exe) indir ve uygulamayı çalıştır. Dilersen kaynak kodtan da derleyebilirsin.
 
 
 ### Gereksinimler
