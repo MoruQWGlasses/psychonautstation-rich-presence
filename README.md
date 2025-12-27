@@ -7,7 +7,7 @@ Bu araç, oyunu otomatik olarak başlatır ve Discord Rich Presence (RPC) özell
 <img width="728" height="334" alt="image" src="https://github.com/user-attachments/assets/adffc63b-cb71-4074-b95d-fb0d6d5b39e8" />
 
 
-
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 ## 🛠️ Kurulum
 Kurulum dosyasını ![Buradan](https://github.com/MoruQWGlasses/psychonautstation-rich-presence/raw/refs/heads/main/dist/PsychonautStation.exe) indir ve uygulamayı çalıştır. Dilersen kaynak kodtan da derleyebilirsin.
 
