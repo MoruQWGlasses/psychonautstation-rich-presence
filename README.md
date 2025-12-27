@@ -4,8 +4,8 @@
 
 Bu araç, oyunu otomatik olarak başlatır ve Discord Rich Presence (RPC) özelliğini kullanarak anlık bilgileri (Harita, Oyuncu Sayısı, Round ID, İstasyon Adı, Alarm Seviyesi) gösterir.
 
-![Discord RPC Önizleme](<img width="728" height="334" alt="image" src="https://github.com/user-attachments/assets/5e4681c9-ee23-4f12-bfd3-7a11a7811992" />
-)
+<img width="728" height="334" alt="image" src="https://github.com/user-attachments/assets/adffc63b-cb71-4074-b95d-fb0d6d5b39e8" />
+
 
 
 ## 🛠️ Kurulum
